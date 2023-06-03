@@ -76,3 +76,17 @@ li {
 .container p {
     padding: 8px 0;
 }
+
+.quiz-heading {
+    display: flex;
+}
+
+.home {
+    padding-right: 10px;
+}
+
+.quiz-num {
+    margin-top: 20px;
+    padding: 16px 8px;
+    width: 100%;
+}
